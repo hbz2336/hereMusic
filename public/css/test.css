@@ -1,0 +1,66 @@
+.song {
+  width: 100%;
+}
+.song .song-wrap {
+  width: 100%;
+}
+.song .song-wrap .img-wrap {
+  width: 100%;
+}
+.song .song-wrap .img-wrap img {
+  width: 100%;
+}
+.song .song-wrap .img-wrap i {
+  width: 100%;
+}
+.song .song-wrap .lyric-wrap {
+  width: 100%;
+}
+.song .song-wrap .lyric-wrap .title {
+  width: 100%;
+}
+.song .song-wrap .lyric-wrap .singer {
+  width: 100%;
+}
+.song .song-wrap .lyric-wrap .desc {
+  width: 100%;
+}
+.song .word-wrap {
+  width: 100%;
+}
+.song .word-wrap .big-wrap {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .title {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items .item {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items .item .img-wrap {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items .item .img-wrap img {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items .item .img-wrap i {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items .item .info-wrap {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items .item .info-wrap .name {
+  width: 100%;
+}
+.song .word-wrap .refer-wrap .songs .items .item .info-wrap .singer {
+  width: 100%;
+}
